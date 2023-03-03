@@ -1,7 +1,7 @@
 # AboutMe
 Hi, my name's Vinícius <br>
-I'm very interested in working with UX, I love designing and provide not only astonishing looks but intuitive interactions. <br>
-Nowadays I'm exploring both front and back end, doing some PHP websites with CodeIgniter framework and SQL databases, focusing on apply AJAX and make my own CSS library. <br>
+I'm very interested in working with UX, I love design (yet not a professional in this area) and provide not only astonishing looks but intuitive interactions. <br>
+Nowadays I'm exploring both front and back end, doing a PHP website with CodeIgniter framework and SQL database, focusing on apply AJAX and make my own CSS library. <br>
 Here's some of what I've been studying and am familiar with: <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,6 +15,7 @@ Here's some of what I've been studying and am familiar with: <br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg ">
 </div><br>
+(Btw my excel sheets are awesome :D)
   
 I also plan to dive in soon: <br>
 <div style="display: inline_block"><br>
