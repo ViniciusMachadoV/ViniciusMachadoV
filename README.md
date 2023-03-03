@@ -1,6 +1,6 @@
 # AboutMe
 Hi, my name's Vinícius <br>
-I'm very interested in working with UX, I love design (yet not a professional in this area) and provide not only astonishing looks but intuitive interactions. <br>
+I'm very interested in working with UX, I love design (yet not a professional in the area) and provide not only astonishing looks but intuitive interactions. <br>
 Nowadays I'm exploring both front and back end, doing a PHP website with CodeIgniter framework and SQL database, focusing on apply AJAX and make my own CSS library. <br>
 Here's some of what I've been studying and am familiar with: <br>
 <div style="display: inline_block"><br>
